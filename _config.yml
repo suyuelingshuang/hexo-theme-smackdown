@@ -67,9 +67,9 @@ friends:
   smackdown: https://github.com/suyuelingshuang/hexo-theme-smackdown.git
 #是否开启“关于我”。
 # 不开启——
-aboutme: false
+# aboutme: false
 #开启——
-# aboutme:
+ aboutme: https://github.com/suyuelingshuang/resume.git
 
 swift_search:
   enable: true
