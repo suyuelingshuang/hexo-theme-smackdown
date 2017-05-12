@@ -3,6 +3,7 @@ menu:
   主页: /
   所有文章: /archives
   # 随笔: /tags/随笔
+  关于: /about #介绍一下自己
 
 # SubNav
 subnav:
@@ -34,12 +35,12 @@ open_in_new: false
 
 # 百度统计、谷歌统计
 # baidu_tongji: true
-# google_analytics: true
+ google_analytics: true
 
-favicon: http://7xkj1z.com1.z0.glb.clouddn.com/head.jpg
+favicon: img/zwx.gif
 
 #你的头像url
-avatar: http://7xkj1z.com1.z0.glb.clouddn.com/head.jpg
+avatar: img/zwx.gif
 
 #是否开启分享
 share: true
@@ -63,10 +64,10 @@ leancloud_visitors:
 #friends: false
 #开启——
 friends:
-  smackdown: https://github.com/smackgg/hexo-theme-smackdown
+  smackdown: https://github.com/suyuelingshuang/hexo-theme-smackdown.git
 #是否开启“关于我”。
 # 不开启——
-aboutme: false
+aboutme: true
 #开启——
 # aboutme:
 
