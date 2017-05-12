@@ -35,7 +35,7 @@ open_in_new: false
 
 # 百度统计、谷歌统计
 # baidu_tongji: true
- google_analytics: true
+# google_analytics: true
 
 favicon: img/zwx.gif
 
@@ -67,7 +67,7 @@ friends:
   smackdown: https://github.com/suyuelingshuang/hexo-theme-smackdown.git
 #是否开启“关于我”。
 # 不开启——
-aboutme: true
+aboutme: false
 #开启——
 # aboutme:
 
